@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/ujjwalkrgupta/ujjwalkrgupta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### So, there goes my story....
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+``` 
 
-### Markdown
+It all began in the year 2000, when first personal computer came in our family and as every child has an inquisitive nature towards new things, mine was pure love for the computers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I want to help the world in developing softwares , building new technologies and making it accessible to each and every individual.
 
-```markdown
-Syntax highlighted code block
+My objective is to get the technical as well as the business know-hows of the IT industry , to use the gained knowledge and experience to overcome the modern problems and take the society a step closer towards pure Digitalization.
 
-# Header 1
-## Header 2
-### Header 3
+I am skilled and interested in areas like Java , C, C++, PHP, Python, mySQL,Android app development, web development, cloud computing, Big Data analytics, Internet of things.
 
-- Bulleted
-- List
+Above mentions maybe very common knowledge among various developers today ,but what sets me apart from the rest is my passion towards learning and my never-ending appetite for knowledge and learning new technologies. That is what keeps me awake at night and give that butterfly feeling in the stomach.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+One of the most important aspect of working in any organization is team work. I believe my experiences in working with people from various backgrounds in technical as well as non-technical field makes me a good team player.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ujjwalkrgupta/ujjwalkrgupta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
